@@ -2,7 +2,7 @@ import React from "react";
 
 const Past = () => {
   
-  return <div> This site was made with Create-React-App. </div>
+  return <div> Present </div>
 };
 
 export default Past;

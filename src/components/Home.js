@@ -2,7 +2,7 @@ import React from "react";
 
 const Home = () => {
   
-  return <div> This site was made with Create-React-App. </div>
+  return <div> Home </div>
 };
 
 export default Home;

@@ -2,7 +2,7 @@ import React from "react";
 
 const Future = () => {
   
-  return <div> This site was made with Create-React-App. </div>
+  return <div> Future </div>
 };
 
 export default Future;
